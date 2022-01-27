@@ -1,0 +1,16 @@
+C:\Users\coder\source\repos\OpenFileTest1\OpenFileTest1\obj\Debug\OpenFileTest1.csproj.AssemblyReference.cache
+C:\Users\coder\source\repos\OpenFileTest1\OpenFileTest1\obj\Debug\OpenFileTest1.csproj.SuggestedBindingRedirects.cache
+C:\Users\coder\source\repos\OpenFileTest1\OpenFileTest1\obj\Debug\MainWindow.g.cs
+C:\Users\coder\source\repos\OpenFileTest1\OpenFileTest1\obj\Debug\App.g.cs
+C:\Users\coder\source\repos\OpenFileTest1\OpenFileTest1\obj\Debug\OpenFileTest1_MarkupCompile.cache
+C:\Users\coder\source\repos\OpenFileTest1\OpenFileTest1\obj\Debug\OpenFileTest1_MarkupCompile.lref
+C:\Users\coder\source\repos\OpenFileTest1\OpenFileTest1\bin\Debug\OpenFileTest1.exe.config
+C:\Users\coder\source\repos\OpenFileTest1\OpenFileTest1\bin\Debug\OpenFileTest1.exe
+C:\Users\coder\source\repos\OpenFileTest1\OpenFileTest1\bin\Debug\OpenFileTest1.pdb
+C:\Users\coder\source\repos\OpenFileTest1\OpenFileTest1\obj\Debug\MainWindow.baml
+C:\Users\coder\source\repos\OpenFileTest1\OpenFileTest1\obj\Debug\OpenFileTest1.g.resources
+C:\Users\coder\source\repos\OpenFileTest1\OpenFileTest1\obj\Debug\OpenFileTest1.Properties.Resources.resources
+C:\Users\coder\source\repos\OpenFileTest1\OpenFileTest1\obj\Debug\OpenFileTest1.csproj.GenerateResource.cache
+C:\Users\coder\source\repos\OpenFileTest1\OpenFileTest1\obj\Debug\OpenFileTest1.csproj.CoreCompileInputs.cache
+C:\Users\coder\source\repos\OpenFileTest1\OpenFileTest1\obj\Debug\OpenFileTest1.exe
+C:\Users\coder\source\repos\OpenFileTest1\OpenFileTest1\obj\Debug\OpenFileTest1.pdb
